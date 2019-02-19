@@ -11,8 +11,8 @@ function ninjaBabySelector() {
   return $('#baby-ninja')
 }
 
-function paragraphSelector() {
-  return $('p')
+function divSelector() {
+  return $('div')
 }
 function paragraphSelector() {
   return $('p')
