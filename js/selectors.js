@@ -14,6 +14,6 @@ function ninjaBabySelector() {
 function divSelector() {
   return $('div.pics')
 }
-function paragraphSelector() {
-  return $('p')
+function firstListItem() {
+  return $('#pic-list li:first-child')
 }
